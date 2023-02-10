@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Alex, a Welsh man doing life in Barcelona
 
-<!--
-**alexryanjones/alexryanjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I'm a full stack engineer with a love for frontend and design.
 
-Here are some ideas to get you started:
+🎧 When I'm not using software to create apps I'm using hardware to create electronic music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on [Snobify](https://main--snobify.netlify.app/), to inspire a diverse musical taste through AI.
+
+Some things I like to use:
+<p>
+  <img src="js.png" style= "height: 50px;" />
+  <img src="react.png" style= "height: 50px;" />
+  <img src="nodejs.png" style= "height: 50px;" />
+  <img src="css.png" style= "height: 50px;" />
+  <img src="express.webp" style= "height: 50px;" />
+</p>
