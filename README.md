@@ -1,4 +1,4 @@
-### I'm Alex, a Welsh guy doing life in Barcelona 💃🏻
+<p align="center">I'm Alex, a Welsh guy doing life in Barcelona 💃🏻</p>
 
 🎨 I'm a full stack engineer with a love for frontend and design.
 
@@ -25,7 +25,9 @@ I'm also here:
 </p>
 
 <div align="center">
+  
   [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexryanjones&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
+  
 </div>
