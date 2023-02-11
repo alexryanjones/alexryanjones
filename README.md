@@ -1,4 +1,4 @@
-<h1 align="center">I'm Alex🏻</h1>
+<h1 align="center">👋🏻 I'm Alex</h1>
 
 
 🌍 I'm a Welsh guy doing life in Barcelona 💃
