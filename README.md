@@ -11,7 +11,7 @@
 
 
 
-Some things I like to use:
+Some things I love to use:
 <p>
   <img src="js.png" style= "height: 50px;" />
   <img src=ts.png style= "height: 50px;" />
