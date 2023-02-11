@@ -1,4 +1,4 @@
-<p align="center">I'm Alex, a Welsh guy doing life in Barcelona 💃🏻</p>
+<span align="center" style="font-weight:600;font-size:20px;">I'm Alex, a Welsh guy doing life in Barcelona 💃🏻</span>
 
 🎨 I'm a full stack engineer with a love for frontend and design.
 
