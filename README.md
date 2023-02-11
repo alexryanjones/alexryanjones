@@ -24,7 +24,9 @@ Some things I like to use:
   
 </div>
 
-I'm also here:
+<p align="right"> 
+  I'm also here:  
+</p>
 <p align="right">
   <a href="https://www.linkedin.com/in/alexryanjones/"><img src="linkedin.png" style= "height: 50px;"/></a>
   <a href="https://medium.com/@alexryanjones"><img src="medium.png" style= "height: 50px;"/></a>
