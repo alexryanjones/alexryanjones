@@ -30,6 +30,11 @@ Some things I like to use:
 </div>
 
 
+💻 Tech Stack
+![Javascript](https://img.shields.io/badge/-Javascript-C21325?style=plastic&logo=Javascript&logoColor=Yellow)
+![Typescript](https://img.shields.io/badge/-Typescript-C21325?style=plastic&logo=Typescript&logoColor=Blue)
+
+
 
 <p align="right"> 
   I'm also at these places:  
