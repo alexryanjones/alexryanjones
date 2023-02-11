@@ -1,6 +1,7 @@
-<h1 align="center">I'm Alex, a Welsh guy doing life in Barcelona 💃🏻</h1>
+<h1 align="center">I'm Alex🏻</h1>
 
 
+🌍 I'm a Welsh guy doing life in Barcelona 💃
 
 🎨 I'm a full stack engineer with a love for frontend and design.
 
