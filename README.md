@@ -7,7 +7,7 @@
 
 🎧 When I'm not using software to create apps I'm using hardware to create electronic music.
 
-🔭 I’m currently working on [Snobify](https://main--snobify.netlify.app/), to inspire diverse musical tastes through AI.
+🎼 I’m currently working on [Snobify](https://main--snobify.netlify.app/), to inspire diverse musical tastes through AI.
 
 
 
