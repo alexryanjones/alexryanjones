@@ -25,8 +25,8 @@ Some things I love to use:
 
 <div align="center">
   
-  [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexryanjones&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
+  [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&card_width=300&custom_title=Alex's%20Github%20Stats)](https://github.com/alexryanjones)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexryanjones&layout=compact&show_icons=true&theme=highcontrast&card_width=300&langs_count=10)](https://github.com/alexryanjones)
   
 </div>
 
