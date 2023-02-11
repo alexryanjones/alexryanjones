@@ -1,10 +1,14 @@
 <h1 align="center">I'm Alex, a Welsh guy doing life in Barcelona 💃🏻</h1>
 
+
+
 🎨 I'm a full stack engineer with a love for frontend and design.
 
 🎧 When I'm not using software to create apps I'm using hardware to create electronic music.
 
 🔭 I’m currently working on [Snobify](https://main--snobify.netlify.app/), to inspire diverse musical tastes through AI.
+
+
 
 Some things I like to use:
 <p>
@@ -16,12 +20,16 @@ Some things I like to use:
   <img src="express.webp" style= "height: 50px;" />
 </p>
 
+
+
 <div align="center">
   
   [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexryanjones&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
   
 </div>
+
+
 
 <p align="right"> 
   I'm also at these places:  
