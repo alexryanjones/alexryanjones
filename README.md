@@ -31,7 +31,8 @@ Some things I like to use:
 
 
 💻 Tech Stack
-![Javascript](https://img.shields.io/badge/-Javascript-C21325?style=plastic&logo=Javascript&logoColor=Yellow)
+
+![Javascript](https://img.shields.io/badge/JS-Javascript-lightgrey&logoColor=Yellow)
 ![Typescript](https://img.shields.io/badge/-Typescript-C21325?style=plastic&logo=Typescript&logoColor=Blue)
 
 
