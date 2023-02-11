@@ -32,7 +32,7 @@ Some things I like to use:
 
 💻 Tech Stack
 
-![Javascript](https://img.shields.io/badge/JS-Javascript-lightgrey&style=plastic&logoColor=Yellow)
+![Javascript](https://img.shields.io/badge/JS-Javascript-6b6464&style=plastic&logoColor=Yellow)
 ![Typescript](https://img.shields.io/badge/-Typescript-C21325?style=plastic&logo=Typescript&logoColor=Blue)
 
 
