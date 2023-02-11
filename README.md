@@ -19,7 +19,6 @@ Some things I like to use:
 <div float="left">
   
   [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexryanjones&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
   
 </div>
