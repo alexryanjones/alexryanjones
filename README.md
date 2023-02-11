@@ -1,4 +1,4 @@
-<p style= "align-self: center; font-size: 18px; font-weight: bold;">I'm Alex, a Welsh guy doing life in Barcelona 💃🏻
+<p style= "align-self: center; font-size: 18px; font-weight: bold;">I'm Alex, a Welsh guy doing life in Barcelona 💃🏻</p>
 
 🎨 I'm a full stack engineer with a love for frontend and design.
 
