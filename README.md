@@ -1,4 +1,4 @@
-<p style="text-align: center;">**I'm Alex, a Welsh guy doing life in Barcelona** 💃🏻</p>
+### I'm Alex, a Welsh guy doing life in Barcelona 💃🏻
 
 🎨 I'm a full stack engineer with a love for frontend and design.
 
@@ -24,7 +24,7 @@ I'm also here:
   <a href="https://soundcloud.com/alexryanjones"><img src="soundcloud.png" style= "height: 50px;"/></a>
 </p>
 
-<div style= "display=flex; justify-content=center">
+<div align="center">
   [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexryanjones&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
