@@ -16,7 +16,7 @@ Some things I like to use:
   <img src="express.webp" style= "height: 50px;" />
 </p>
 
-<div float=""left align="center">
+<div float="left" align="center">
   
   [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
 
@@ -25,7 +25,7 @@ Some things I like to use:
 </div>
 
 <p align="right"> 
-  I'm also here:  
+  I'm also at these places:  
 </p>
 <p align="right">
   <a href="https://www.linkedin.com/in/alexryanjones/"><img src="linkedin.png" style= "height: 50px;"/></a>
