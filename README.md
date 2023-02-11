@@ -1,9 +1,9 @@
 <h1 align="center">👋🏻 I'm Alex</h1>
 
 
-🌍 I'm a Welsh guy doing life in Barcelona 💃
+🌍 Welsh guy doing life in Barcelona 💃
 
-🎨 I'm a full stack engineer with a love for frontend and design.
+🎨 Full stack engineer with a love for frontend and design.
 
 🎧 When I'm not using software to create apps I'm using hardware to create electronic music.
 
