@@ -16,7 +16,7 @@ Some things I like to use:
   <img src="express.webp" style= "height: 50px;" />
 </p>
 
-<div float="left">
+<div align="center">
   
   [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexryanjones&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
