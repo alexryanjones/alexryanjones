@@ -23,7 +23,6 @@ Some things I like to use:
 
 
 <div align="center">
-  
   <div width="600">
     
   [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
@@ -36,7 +35,6 @@ Some things I like to use:
    </div>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexryanjones&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
-  
 </div>
 
 
