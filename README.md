@@ -40,8 +40,8 @@ Some things I like to use:
   I'm also at these places:  
 </p>
 <p align="right">
-  <a href="https://www.linkedin.com/in/alexryanjones/"><img src="linkedin.png" style= "height: 50px;"/></a>
-  <a href="https://medium.com/@alexryanjones"><img src="medium.png" style= "height: 50px;"/></a>
-  <a href="https://www.instagram.com/alexryanjones/"><img src="instagram.png" style= "height: 50px;"/></a>
-  <a href="https://soundcloud.com/alexryanjones"><img src="soundcloud.png" style= "height: 50px;"/></a>
+  <a href="https://www.linkedin.com/in/alexryanjones/"><img src="linkedin.png" style= "height: 50px;" /></a>
+  <a href="https://medium.com/@alexryanjones"><img src="medium.png" style= "height: 50px;" /></a>
+  <a href="https://www.instagram.com/alexryanjones/"><img src="instagram.png" style= "height: 50px;" /></a>
+  <a href="https://soundcloud.com/alexryanjones"><img src="soundcloud.png" style= "height: 50px;" /></a>
 </p>
