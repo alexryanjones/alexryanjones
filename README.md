@@ -22,7 +22,7 @@ Some things I like to use:
 
 
 
-<div align="center">
+<div align="center" width="100%">
   
   [![Alex’s github stats](https://github-readme-stats.vercel.app/api?username=alexryanjones&show_icons=true&theme=highcontrast)](https://github.com/alexryanjones)
   ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alexryanjones&theme=dark&hide_border=false)
